@@ -1,1 +1,1 @@
-ausbrumm.github.io
+ausbrumm.github.io/html/index.html
