@@ -12,7 +12,7 @@ document.querySelectorAll(".fas").forEach((e) => {
     if (e.target.id != "") {
       if (e.target.id != "index") {
         console.log(e.target.id);
-        window.location.href = "/html/" + e.target.id + ".html";
+        window.location.href = "./" + e.target.id + ".html";
       } else window.location.href = "../" + e.target.id + ".html";
     }
   });
